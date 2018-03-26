@@ -1,0 +1,17 @@
+1
+3
+a12|normal
+a13|silver
+a14|gold
+100
+credit
+ABC
+123456789
+.2
+3
+a13|silver
+b12|silver
+b13|gold
+132
+cash
+BCDasd
